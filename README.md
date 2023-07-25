@@ -13,7 +13,7 @@ I'm currently working on a crowdfunding app for Web3.<br>Looking to collaborate 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=royalrock11&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="(https://api.memegen.link/images/both/width_or_height/why_not_both~q.png?height=450&width=800)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=royalrock11&icon=0&color=0)](https://visitcount.itsvg.in)
