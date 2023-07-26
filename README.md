@@ -1,4 +1,4 @@
-<img src="https://yourimageshare.com/ib/ac23iOmjFe" width="1500px" height="400px"/>
+
 
 # 💫 About Me:
 I'm currently working on a crowdfunding app for Web3.<br>Looking to collaborate on Web3 projects. Defi = Financial freedom for all!<br>I'm grateful for any feedback. <br>Growing better everyday with Solidity and EVM.<br>Ask me about anything Sci-Fi and all types of nerdity. <br>Fun fact: It is highly probable that the whole of exsistance is nothing more than an artificial reality.<br>A very fun one at that, so don't take yourself to seriously. 
@@ -12,11 +12,6 @@ I'm currently working on a crowdfunding app for Web3.<br>Looking to collaborate 
 ![](https://github-readme-stats.vercel.app/api?username=royalrock11&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=royalrock11&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=royalrock11&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Techno Cat ( The interwebs said his name is Hans)
-<img src="https://lh3.googleusercontent.com/pw/AIL4fc9_2FL0aUN9hOeAezepbW6sTSW9rZwFE7syHcS3zv6MXy0977O8GNmxu-0Wd7Y0d1PadlhQl73oY1xgIKUfWYLkAsRnuxMWqmfZY9fAGlJz5715WC1HugPuIcA1udLqAU8gx_TH4zTXCbY4Vyi5gaQ17uoPBs-otF0dUfbN2XrbnshhKxEL7uXRqzg2gfB7S_2zi3gSOXpsy4o-kZ3bBpPvMo9SvTseE4_WXuNWrGdBk_jsCFU-d2vakFu5qZdOT1OlLlPOHK8SsYz6W6yo7UdnZF0b6VMnPr8nXXuFIyHMYNj2mdkcQWlQovfetilpVoiSUzwnlDeLgeJKemQcbGsTqfJZOcTtdhsJlhyvw68YImsAHu8W8rQ95zcvkKCXM_GYs4pqG_0Pd9RHwO3kPNfw_yL5wyIEKuFVuZhyhsf1hFzL-zfkF-Qm9g5Dlaux9j2-b-WEhxnQbnCJejrZLNcPkZRWPg3Beawh8utuGcws0KZ2yfDWEzKpjyXqhEYD2QCFkbwtqhlWKbeYXOilnbGFIiZ7uNu86TM6ZKnLlGolZ-2h9RqaEvJpY7jtqzk0E1qi-nGjQR5rDvd4KuERRYmjb10KB2jxZFulf1Dk9KXhPQLP5M4JbPPShZ_chZoYiMG0m6K_j7SlHVFQryfgYzZsHkzw6Gy2ii_tqDLxSVk0DcyY--iM3tGxII0c50FnlaPbPYiHJHFInLJ0hWBN6-hYlmfvNZHNVGrgqtjXBC7KGSTXe_1X6v_aIcMWwraN3onMu6yEm4XG7MmyAJNs9Tewv25LZwmDy38km9ay-Wfdv3MFr6vNqi3EahbY4TZB3fdDtBTRPFervbX3wfmSgPZTBDLlfA3xxu60jhVtFRNRzV1_-Vw_OhTrFA_lHXbs-nsF6TZsFO3nvTOQgLk3nGeGug=s220-no?authuser=0" width="300px"/>
-
-
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/royalrock11) 
