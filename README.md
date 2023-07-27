@@ -14,6 +14,10 @@ I'm currently working on a crowdfunding app for Web3.<br>Looking to collaborate 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=royalrock11&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=royalrock11&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Let's collaborate, and then celebrate!
+![collab](https://github.com/royalrock11/royalrock11/assets/128316569/41498486-ecfb-4196-afbb-4b629acb244e witdh="300px" height="300px")
+
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/royalrock11) 
 
