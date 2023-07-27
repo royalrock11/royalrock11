@@ -15,7 +15,7 @@ I'm currently working on a crowdfunding app for Web3.<br>Looking to collaborate 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=royalrock11&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Let's collaborate, and then celebrate!
-![collab](https://github.com/royalrock11/royalrock11/assets/128316569/41498486-ecfb-4196-afbb-4b629acb244e witdh="300px" height="300px")
+![collab](https://github.com/royalrock11/royalrock11/assets/128316569/41498486-ecfb-4196-afbb-4b629acb244e)
 
 
   ## 💰 You can help me by Donating
