@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm currently working on a crowdfunding app for Web3.<br>Looking to collaborate on Web3 projects. Defi = Financial freedom for all!<br>I'm grateful for any feedback. <br>Growing better everyday with Solidity and EVM.<br>Ask me about anything Sci-Fi and all types of nerdity. <br>Fun fact: It is highly probable that the whole of exsistance is nothing more than an artificial reality.<br>A very fun one at that, so don't take yourself to seriously. 
+Web3 is the place to be.<br>Looking to collaborate on Web3 projects. Defi = Financial freedom for all!<br>I'm grateful for any feedback. <br>Growing better everyday with Solidity and EVM.<br>Ask me about anything Sci-Fi and all types of nerdity. <br>Fun fact: It is highly probable that the whole of exsistance is nothing more than an artificial reality.<br>A very fun one at that, so don't take yourself to seriously. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/reginald.prince.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/writing_prince/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/writingprince/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/writingprince) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@writingprince) 
